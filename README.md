@@ -4,7 +4,7 @@
 **kate3890/kate3890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🎓 MSc in Computer science & Business Technology
 - 💻 Currently learning how to program in: Python, JavaScript, SQL, HTML & CSS
 - 🌱 Currently learning: ReactJS and AngularJS to enhance my front-end development skills.
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 Thanks for visiting my profile! 
 Feel free to get in touch if you have any questions.
--->
