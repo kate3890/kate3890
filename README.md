@@ -1,13 +1,12 @@
 # Welcome to my GitHub 👋
 
-My name is Aikaterini, I'm currently persuing a MSc in Computer Science & Business Technology with specialisation in Artifitial Intelligence at IE univeristy. 
+My name is Aikaterini, I'm currently pursuing an MSc in Computer Science & Business Technology with a specialisation in Artificial Intelligence at IE univeristy. 
 
 - 🎓 MSc in Computer Science & Business Technology
-- 💻 Currently improving: my programming skills in: Python, JavaScript, SQL, HTML & CSS
+- 💻 Currently improving: my programming skills in Python, JavaScript, SQL, HTML & CSS
 - 🌱 Currently learning: ReactJS to enhance my front-end development skills.
-- 🏆 Projects: Throughout my degree I've worked on several projects, including building a responsive e-commerce website and analysing large data sets and building predictive models
-- 📈 Data Analytics Skills: MongoDB, JupyterNotebook, Libraries (NumPy, pandas, scrapy, Matplotlib)
-
+- 🏆 Projects: Throughout my degree, I've worked on several projects, including building a responsive e-commerce website, analysing large data sets and building neural network for image analysis
+  
 ## Technical Skills 💻:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
